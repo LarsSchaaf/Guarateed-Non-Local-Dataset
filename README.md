@@ -3,7 +3,7 @@
 
 ## Overview
 
-This dataset is designed as a comprehensive challenge for machine learning force fields. It focuses on the task of regressing energy and forces from 3D molecular structures. The dataset consists of cumulenes, which due to their electronic structure, exhibit non-local effects. These pose a challenge for conventional machine learning force fields, including both attention-based and message-passing neural networks.
+The GNL dataset is designed as a comprehensive challenge for machine learning force fields. It focuses on the task of regressing energy and forces from 3D molecular structures. The dataset consists of cumulenes, which due to their electronic structure, exhibit non-local effects. These pose a challenge for conventional machine learning force fields, including both attention-based and message-passing neural networks.
 
 The dataset was published along with the [Matrix Function Network paper](https://arxiv.org/abs/2310.10434):
 
